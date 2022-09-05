@@ -1,0 +1,80 @@
+{
+    "sobreMi":[{
+        "img_perfil": "./assets/img/perfil.JPG",
+        "nombre_apellido": "Javier Agustin Castro",
+        "profesion": "fullstack Developer Jr.",
+        "pais": "Argentina",
+        "ciudad": "Catamarca",
+        "localidad": "Catamarca",
+        "cp": "CP4700",
+        "email": "likeyou201120@gmail.com",
+        "celular": "+54 351 3481225",
+        "descripcion": "Contador dedicado al asesoramiento tributario, tambien participo de la dirección y docencia de un instituto de apoyo escolar. Ex gerente de un establecimiento hotelero / gastronómico (15 años). Dedicado y apasionado por la informática (soft y hard). Actualmente freelancer para desarrollo, administración y control de paginas web."
+    }],
+
+    "educacion":[{  
+            "logo": "assets/img/ucc.png",
+            "nombre": "Universidad Católica de Córdoba",
+            "descripcion": "Contador Público Nacional"
+        },
+        {
+            "logo": "assets/img/ubp.png",
+            "nombre": "Universidad Blas Pascal",
+            "descripcion": "Capacitación: Asesor Tributario"
+        },
+        {
+            "logo": "assets/img/YPlogo1.png",
+            "nombre": "#yoprogramo 3°etapa",
+            "descripcion": "Fullstack Developer Jr"
+        }],
+
+    "experiencia":[{
+        "logo":"assets/img/Noimagen.png",
+        "nombre_empresa": "Contador Público Nacional",
+        "cargo":"Autónomo, consultor tributario",
+        "fecha_desde":"2001",
+        "fecha_hasta":"Actualidad"
+    },
+    {        
+        "logo":"assets/img/apoyo.png",
+        "nombre_empresa": "Instituo de Apoyo Escolar VCP",
+        "cargo":"Director de Apoyo Escolar y profesor en los niveles primario, secundario, terciario y universitario",
+        "fecha_desde":"2005",
+        "fecha_hasta":"Actualidad"
+    },
+    {    
+        "logo":"assets/img/Noimagen.png",
+        "nombre_empresa": "Casa de Chicha",
+        "cargo":"Gerente",
+        "fecha_desde":"2000",
+        "fecha_hasta":"2015"
+    }],
+
+    "habilidades":[{
+        "logo":"assets/img/html5.png",
+        "porcentaje":"width: 80%"
+    },
+    {
+        "logo":"assets/img/css3.png",
+        "porcentaje":"width: 60%"
+    },
+    {    
+        "logo":"assets/img/angular.png",
+        "porcentaje":"width: 10%"
+    },
+    {
+        "logo":"assets/img/node.png",
+        "porcentaje":"width: 10%"
+    },
+    {
+        "logo":"assets/img/node.png",
+        "porcentaje":"width: 10%"
+    }],
+
+    "proyectos":[{
+        "logo":"assets/img/YPlogo1.png",
+        "titulo":"Curriculum Vitae",
+        "descripcion":"Curriculum vitae online, que permite edita, elimanar secciones y descargar todo el contenido en formato PDF"    
+    }]
+}
+
